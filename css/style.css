@@ -168,8 +168,9 @@ background:#f3f3f3;
 
 .photo-circle{
 overflow:hidden;
-border-top-left-radius:280px;
-border-top-right-radius:280px;
+  border-top-right-radius:280px;
+border-bottom-left-radius:280px;
+
 }
 
 .photo-circle img{
