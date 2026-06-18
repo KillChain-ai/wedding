@@ -181,7 +181,7 @@ object-fit:cover;
 
 .dresscode{
 background:white;
-color:black;
+color:white;
 }
 
 .colors{
@@ -230,7 +230,7 @@ margin:40px 0;
 
 .female-gallery,
 .male-gallery{
-display:flex;
+display:grid;
 
 gap:15px;
 }
