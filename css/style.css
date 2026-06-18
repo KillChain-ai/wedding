@@ -292,7 +292,7 @@ input,
 textarea{
 width:100%;
 padding:18px;
-margin-bottom:20px;
+margin-bottom:0px;
 border:none;
 border-bottom:1px solid #999;
 font-size:16px;
