@@ -1,6 +1,6 @@
 // ===== ДАТА СВАДЬБЫ =====
 
-const weddingDate = new Date("2025-08-15T15:00:00");
+const weddingDate = new Date("2026-09-18T12:00:00");
 
 
 // ===== ЭЛЕМЕНТЫ =====
