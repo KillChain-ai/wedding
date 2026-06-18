@@ -86,8 +86,8 @@ padding:16px 32px;
 }
 
 .photo-circle{
- border-top-right-radius:280px;
-border-bottom-left-radius:280px;
+ border-top-right-radius:180px;
+border-bottom-left-radius:180px;
 }
 
 .photo-circle img{
