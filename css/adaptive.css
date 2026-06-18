@@ -55,6 +55,7 @@ font-size:26px;
 }
 
 .hero-image{
+border-bottom-left-radius:180px;
 border-bottom-right-radius:180px;
 }
 
