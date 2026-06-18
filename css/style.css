@@ -231,7 +231,7 @@ margin:40px 0;
 .female-gallery,
 .male-gallery{
 display:grid;
-grid-template-columns:1fr 1fr;
+
 gap:15px;
 }
 
