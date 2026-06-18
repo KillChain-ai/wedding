@@ -291,8 +291,8 @@ margin-top:50px;
 input,
 textarea{
 width:100%;
-padding:18px;
-margin-bottom:0px;
+padding:0px;
+margin-bottom:20px;
 border:none;
 border-bottom:1px solid #999;
 font-size:16px;
