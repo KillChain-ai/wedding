@@ -1,0 +1,100 @@
+/* ===== GLASS EFFECT ===== */
+
+.route-button,
+button{
+
+backdrop-filter: blur(20px);
+
+box-shadow:
+0 10px 40px rgba(255,255,255,.1);
+
+transition:.4s;
+
+}
+
+.route-button:hover,
+button:hover{
+
+transform:translateY(-4px);
+
+box-shadow:
+0 20px 60px rgba(255,255,255,.15);
+
+}
+
+
+/* ===== PHOTO ANIMATION ===== */
+
+.gallery-grid img,
+.female-gallery img,
+.male-gallery img,
+.photo-circle img{
+
+transition:1s;
+
+}
+
+.gallery-grid img:hover,
+.female-gallery img:hover,
+.male-gallery img:hover{
+
+transform:scale(1.04);
+
+}
+
+
+/* ===== TEXT ===== */
+
+h1,h2,h3{
+
+letter-spacing:2px;
+
+}
+
+
+/* ===== SHADOWS ===== */
+
+.photo-circle{
+
+box-shadow:
+0 0 100px rgba(255,255,255,.05);
+
+}
+
+
+/* ===== SECTION SEPARATION ===== */
+
+section{
+
+position:relative;
+
+}
+
+section::after{
+
+content:"";
+
+position:absolute;
+
+bottom:0;
+left:50%;
+
+width:120px;
+height:1px;
+
+background:rgba(255,255,255,.15);
+
+transform:translateX(-50%);
+
+}
+
+
+/* ===== TIMER ===== */
+
+.timer span{
+
+text-shadow:
+
+0 0 20px rgba(255,255,255,.4);
+
+}
