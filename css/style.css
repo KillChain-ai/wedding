@@ -36,7 +36,7 @@ padding-bottom:80px;
 }
 
 .hero-image{
-overflow:hidden;
+overflow:visible;
 border-bottom-left-radius:250px;
 border-bottom-right-radius:250px;
 }
