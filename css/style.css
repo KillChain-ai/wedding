@@ -230,7 +230,7 @@ margin:40px 0;
 
 .female-gallery,
 .male-gallery{
-display:grid;
+display:flex;
 
 gap:15px;
 }
