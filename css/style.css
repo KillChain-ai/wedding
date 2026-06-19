@@ -163,14 +163,11 @@ opacity:.6;
 
 .photo-section{
 padding:0;
-background:#f3f3f3;
+background:#ffffff;
 }
 
 .photo-circle{
 overflow:hidden;
-  border-top-right-radius:0px;
-border-bottom-left-radius:0px;
-
 }
 
 .photo-circle img{
