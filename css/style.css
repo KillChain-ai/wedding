@@ -340,6 +340,10 @@ background:#222;
 text-align:center;
 }
 
+countdown h2{
+text-align:center;
+}
+
 .timer{
 display:flex;
 justify-content:center;
