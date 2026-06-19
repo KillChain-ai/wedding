@@ -337,11 +337,7 @@ background:#222;
 /* ---------- COUNTDOWN ---------- */
 
 .countdown{
-text-align:center;
-}
-
-countdown h2{
-text-align:center;
+text-align:right;
 }
 
 .timer{
