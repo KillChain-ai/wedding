@@ -323,6 +323,7 @@ cursor:pointer;
 
 .map-section{
 background:black;
+border-top-right-radius:280px;
 }
 
 #map{
