@@ -285,8 +285,8 @@ form{
 margin-top:50px;
 }
 
-input,
-textarea{
+input[type="text"],
+textarea {
 width:100%;
 padding:0px;
 margin-bottom:20px;
@@ -301,11 +301,18 @@ height:150px;
 resize:none;
 }
 
-.radio-group{
+.radio-group label,
+label {
 display:flex;
-flex-direction:column;
-gap:15px;
+  align-items:center;
+gap:10px;
+  margin-bottom: 15px;
+}
 
+input[type="radio"]
+input[type="checkbox"] {
+  widht: auto;
+  margin: 0;
 }
 
 button{
