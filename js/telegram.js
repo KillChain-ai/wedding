@@ -2,9 +2,9 @@
 // НАСТРОЙКИ TELEGRAM
 // ==========================
 
-const TOKEN = "ВАШ_BOT_TOKEN";
+const TOKEN = "8861162948:AAElulNGHgF1FJKlLInUrsA2yrQUwqEYx54";
 
-const CHAT_ID = "ВАШ_CHAT_ID";
+const CHAT_ID = "1029437136";
 
 const URL =
 `https://api.telegram.org/bot${TOKEN}/sendMessage`;
