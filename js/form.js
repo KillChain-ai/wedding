@@ -4,7 +4,7 @@ const form = document.getElementById("rsvpForm");
 
 if (form) {
 
-    form.addEventListener("submit", async function (e) {
+    form.addEventListener("submit", function (e) {
 
         e.preventDefault();
 
@@ -88,7 +88,7 @@ if (form) {
 
         // ===== СООБЩЕНИЕ ОБ УСПЕХЕ =====
 
-        await sendTelegram(guestData);
+        sendTelegram(guestData);
 
 
         // ===== ОЧИСТКА ФОРМЫ =====
